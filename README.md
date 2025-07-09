@@ -7,19 +7,19 @@ Install PostgreSQL(i prefer v14) core and development library.
 
 [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 
-### Compile Extention
+### Compile Extension
 
 ```bash
 make
 ```
 
-### Install Extention
+### Install Extension
 
 ```bash
 make install
 ```
 
-### Integrate Extention
+### Integrate Extension
 Run sql command on your database server.
 
 ```
